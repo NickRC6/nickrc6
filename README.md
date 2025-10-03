@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nick  
 
-🚀 **QA Automation Engineer** with a passion for building reliable test frameworks and experimenting with new tools.  
+🚀 **QA Automation Engineer** with a passion for building reliable test frameworks and experimenting with new tools. Additionally, I'm also partaking into the Backend Boot.dev course with Python.  
 🎮 On the side, I’m also diving into **Unity game development** with C# to bring some of my own ideas to life.  
 
 ---
