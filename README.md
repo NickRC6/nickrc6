@@ -15,7 +15,7 @@
 ## 🌱 Current Focus
 - Expanding automation skills with **Playwright**  
 - Developing a **Unity game project** in C#
-- Participating in the [Boot.dev Backend curriculum](https://www.boot.dev/u/roguedev) using **Python** and **TypeScript**
+- Participating in the [Boot.dev](https://www.boot.dev/u/roguedev) Backend curriculum using **Python** and **TypeScript**
 
 ---
 
