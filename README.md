@@ -5,7 +5,7 @@
 🎮 **Game Dev Novice** diving into **Unity game development** with C# to bring some of my own ideas to life.
 ---
 
-**Currently undergoing the Boot.dev Backend Path.
+**Currently undergoing the Boot.dev Backend Path.**
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/54455e62-eaca-4970-a49a-fab6deb9392a/thumbnail" >
 </p>
