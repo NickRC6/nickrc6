@@ -1,13 +1,15 @@
-# Hi there 👋 I'm Nick  
+## Hi there 👋 I'm Nick
 
 🚀 **QA Automation Engineer** with a passion for building reliable test frameworks and experimenting with new tools.  
 💻 **Backend Developer Wannabe** exploring backend development and server-side programming.  
 🎮 **Game Dev Novice** diving into **Unity game development** with C# to bring some of my own ideas to life.
+
 ---
 
 **Currently undergoing the Boot.dev Backend Path.**
+
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/54455e62-eaca-4970-a49a-fab6deb9392a/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/54455e62-eaca-4970-a49a-fab6deb9392a/thumbnail" width="400">
 </p>
 
 
