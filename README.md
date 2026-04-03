@@ -3,11 +3,13 @@
 🚀 **QA Automation Engineer** with a passion for building reliable test frameworks and experimenting with new tools.  
 💻 **Backend Developer Wannabe** exploring backend development and server-side programming.  
 🎮 **Game Dev Novice** diving into **Unity game development** with C# to bring some of my own ideas to life.
+---
 
+**Currently undergoing the Boot.dev Backend Path.
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/54455e62-eaca-4970-a49a-fab6deb9392a/thumbnail" >
 </p>
----
+
 
 ## 🛠 Tech Stack
 - **QA Automation Frameworks**: ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
